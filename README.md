@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/bumoonio/Bumoon/tree/master">
-    <img src="public/img/bumoon3d.gif" alt="Logo" width="300" height="300">
+    <img src="bumoon3d-2.gif" alt="Logo" width="300" height="300">
   </a>
 
   <h1 style="font-weight:bold" align="center">BUMooN</h1>
