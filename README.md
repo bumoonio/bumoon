@@ -23,7 +23,7 @@
   <h1 style="font-weight:bold" align="center">BUMooN</h1>
 
   <p align="center">
-    Cryptocurrency Eco-Token For Effective Yield Farming with Reflect Finance Concept Driven <br> by State Owned Whale and It's Strong Community
+    Cryptocurrency Eco-Token For Effective Yield Farming with Reflect Finance Concept Driven <br> By Eco-Living - Enviromental Projects and It's Strong Community
     <br />
     <a href="https://bumoon.io/BUMooN%20Whitepaper.pdf"><strong>Whitepaper »</strong></a>
     <br />
