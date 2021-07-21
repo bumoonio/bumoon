@@ -50,7 +50,7 @@
 
 
 Cryptocurrency Token For Effective Yield Farming with Reflect Finance Concept Driven
-by State Owned Whale and It's Strong Community
+By Eco-Living - Enviromental Projects and It's Strong Community
 
 
 ### Built With
